@@ -10,6 +10,9 @@ Information about motors is here:
 https://openinverter.org/wiki/Nissan_Leaf_Motors
 https://openinverter.org/wiki/Nissan_Leaf_inverter
 
+Damiens Arduino DUE controler is here:
+https://github.com/damienmaguire/Nissan-Leaf-Inverter-Controller
+
 The Zombie Verter is discussed here: 
 https://openinverter.org/forum/viewtopic.php?f=3&t=1277
 
