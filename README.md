@@ -1,6 +1,7 @@
 # Nissan Leaf VCU
 VCU Controller for Leaf  inverter and motor from Nissan Leaf EM61.
 I have Leaf Gen1 inverter (with round connector) that can power EM61 motor natively.
+https://openinverter.org/forum/viewtopic.php?p=34251&hilit=nissan+leaf+VCU#p34251
 
 CAN control protocol to control Nissan LEaf inverter is referenced here:
 http://productions.8dromeda.net/c55-leaf-inverter-protocol.html
@@ -14,3 +15,4 @@ https://openinverter.org/forum/viewtopic.php?f=3&t=1277
 
 Wiring of the Gen1 inverters is here:
 https://openinverter.org/forum/viewtopic.php?t=138&start=25
+
